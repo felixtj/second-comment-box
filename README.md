@@ -6,18 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 // Still Development Mode //
 This example shows how to make nested comment component in TypeScript.
-    id: 1,
-    text: "Example comment here.",
-    author: "John",
-    children: [
-        {
-        id: 11,
-        text: "Example comment here.",
-        author: "Stve",
-        children: []
-        } ]
 
-It creates infinite loop
 
 ## Usage
 
