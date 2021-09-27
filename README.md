@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 // Still Development Mode //
 This example shows how to make nested comment component in TypeScript.
 
+https://github.com/felixtj/second-comment-box/blob/master/screenshot-comments.png
 
 ## Usage
 
